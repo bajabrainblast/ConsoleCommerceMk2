@@ -1,0 +1,10 @@
+SCRIPT:
+    load inv
+    display whole list
+    show off salt/pepper and pizzas
+    show off bogo
+    inv searching
+    cart searching
+    show off checkout
+
+
